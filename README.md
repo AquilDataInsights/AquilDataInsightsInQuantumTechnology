@@ -1,7 +1,7 @@
 Hi 👋 My name is Aquil Ahmad
 ============================
 
-I'm a Data Analyst & Machine Learning Engineer
+I'm a Data Scientist & Machine Learning Engineer
 ----------------------------------------------
 
 * 🌍  I'm based in Taiwan
