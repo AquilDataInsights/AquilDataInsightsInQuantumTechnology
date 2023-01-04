@@ -42,7 +42,19 @@ src="https://img.shields.io/twitter/follow/Aquil_Phy?logo=twitter&style=for-the-
 </p>
 
 
+### Tools | Frameworks
 
+Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch.
+
+Data Preprocessing: NumPy, Pandas.
+
+Development: Python, Git.
+
+Data Visualization: Tableau, Matplotlib.
+
+Cloud Services: Kaggle kernel.
+
+Integrated Development Environment: Jupyter-Notebook, PyCharm.
 
 ### Badges
 
