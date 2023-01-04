@@ -12,6 +12,24 @@ src="https://img.shields.io/github/followers/AquilTheAnalyst?logo=github&style=f
 src="https://img.shields.io/twitter/follow/Aquil_Phy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/aquil.ahmad.752" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/AquilTheAnalyst" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aquil_physics" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aquilahmadkgp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Aquil_Phy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+• With over 8 years in the world of cutting-edge research, analyzing data, UX research, and using state-of-the-art statistical techniques to make sense of observations, I have been a part of many scientific projects and cross-functional collaborations in India and Taiwan. I look forward to bringing further organizational success through business solutions with machine learning, artiﬁcial intelligence, project management, research & development, innovation, and leadership. 
+
+• Exhaustive knowledge of data collection/analysis/interpretation, database management, UX research, and confidential document control, as evidenced by 16 research papers and 7+ awards.
+
+• Hands on experience in Functional and Object-Oriented Programming styles of Python, R and Fortran.
+
+• Have good exposure to UI UX design using Figma, Blender, Adobe Photoshop, and Adobe Illustrator. 
+
+• In-depth understanding of Python and Fortran.
+
+• A forward-thinking self-driven researcher offering sharp time management, organizational, and assistance skills willing to take on any task.
+
+
 ### Skills
 
 
@@ -24,9 +42,7 @@ src="https://img.shields.io/twitter/follow/Aquil_Phy?logo=twitter&style=for-the-
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.facebook.com/aquil.ahmad.752" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/AquilTheAnalyst" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aquil_physics" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aquilahmadkgp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Aquil_Phy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
