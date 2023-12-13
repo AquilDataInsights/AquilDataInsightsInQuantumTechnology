@@ -1,7 +1,7 @@
 Hi 👋 My name is Aquil Ahmad
 ============================
 
-I'm a Data Scientist & Machine Learning Engineer
+As a passionate physicist specializing in condensed matter physics, I leverage my expertise in quantum technology, spintronics, and thermoelectricity to develop innovative materials and devices. I have a proven track record in both experimental and computational studies, particularly focusing on functional materials for quantum computaion, energy conversion and spintronics. I have successfully led research projects and collaborated with diverse teams to achieve significant scientific advancements.
 ----------------------------------------------
 
 * 🌍  I'm based in Taiwan
